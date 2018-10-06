@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Remarkable {
 	public static void main(String[] args) {
-		JOptionPane.showInputDialog("Write your name in the box below.");
+		String HAHA = JOptionPane.showInputDialog("Write your name in the box below.");
+		JOptionPane.showMessageDialog(null, "");
 	}
 }
